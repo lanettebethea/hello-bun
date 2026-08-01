@@ -3,3 +3,7 @@
 My first repository: a JavaScript file that runs on my own machine with Bun,
 plus my setup notes. I made it while learning the terminal and the
 add-commit-push ritual.
+
+## Joke Section
+Q:  What do you call a bear with no teeth?
+A:  A gummy bear!
