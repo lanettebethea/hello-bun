@@ -1,2 +1,2 @@
-let message = "Today is " + Date();
+let message = "Today's Date is " + Date();
 console.log(message);
