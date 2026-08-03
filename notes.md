@@ -8,3 +8,4 @@
 - This is a test from yesterday's add .
 - fave command: ls
 - practice for creating issue
+- I'm a taurus
