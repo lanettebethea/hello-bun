@@ -7,3 +7,6 @@ add-commit-push ritual.
 ## Joke Section
 Q:  What do you call a bear with no teeth?
 A:  A gummy bear!
+
+## 3 favorite commands
+A: ls, pwd, commit
